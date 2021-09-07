@@ -1,0 +1,4 @@
+SmartStore.DevTools
+SmartStore.Shipping
+SmartStore.OfflinePayment
+SmartStore.PayPal

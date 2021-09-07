@@ -1,0 +1,14 @@
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.GoogleAnalytics\Views\WidgetsGoogleAnalytics\Configure.cshtml
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.GoogleAnalytics\web.config
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.GoogleAnalytics\Views\Web.config
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.GoogleAnalytics\Description.txt
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.GoogleAnalytics\Content\icon.png
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.GoogleAnalytics\Localization\resources.de-de.xml
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.GoogleAnalytics\Localization\resources.en-us.xml
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.GoogleAnalytics\SmartStore.GoogleAnalytics.dll.config
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.GoogleAnalytics\SmartStore.GoogleAnalytics.dll
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.GoogleAnalytics\SmartStore.GoogleAnalytics.pdb
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Plugins\SmartStore.GoogleAnalytics\obj\Debug\SmartStore.GoogleAnalytics.csproj.AssemblyReference.cache
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Plugins\SmartStore.GoogleAnalytics\obj\Debug\SmartStore.GoogleAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Plugins\SmartStore.GoogleAnalytics\obj\Debug\SmartStore.GoogleAnalytics.dll
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Plugins\SmartStore.GoogleAnalytics\obj\Debug\SmartStore.GoogleAnalytics.pdb

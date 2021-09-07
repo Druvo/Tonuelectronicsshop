@@ -1,0 +1,13 @@
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.exe.config
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.exe
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\bin\Debug\SmartStoreWebApiClient.pdb
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.AssemblyReference.cache
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.MainForm.resources
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.Properties.Resources.resources
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.GenerateResource.cache
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStore.WebApi.Client.csproj.CopyComplete
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStoreWebApiClient.exe
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Tools\SmartStore.WebApi.Client\obj\Debug\SmartStoreWebApiClient.pdb

@@ -1,0 +1,3 @@
+AppVersion: 4.1.1.0
+DataProvider: sqlserver
+DataConnectionString: Data Source=MSI;Initial Catalog=smart;Integrated Security=True;Persist Security Info=False;Enlist=False;Pooling=True;Min Pool Size=1;Max Pool Size=100;Connect Timeout=15;User Instance=False

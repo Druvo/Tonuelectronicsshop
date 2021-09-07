@@ -1,0 +1,8 @@
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.dll.config
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.dll
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\bin\SmartStore.Admin.pdb
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.AssemblyReference.cache
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.CoreCompileInputs.cache
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.csproj.CopyComplete
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.dll
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Administration\obj\Debug\SmartStore.Admin.pdb

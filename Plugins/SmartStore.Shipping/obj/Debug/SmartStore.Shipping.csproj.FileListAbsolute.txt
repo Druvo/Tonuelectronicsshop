@@ -1,0 +1,16 @@
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Views\ByTotal\Configure.cshtml
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\web.config
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Views\Web.config
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Views\FixedRate\Configure.cshtml
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Description.txt
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Localization\resources.de-de.xml
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\Localization\resources.en-us.xml
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\SmartStore.Shipping.dll.config
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\SmartStore.Shipping.dll
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Presentation\SmartStore.Web\Plugins\SmartStore.Shipping\SmartStore.Shipping.pdb
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.AssemblyReference.cache
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.Data.Migrations.Initial.resources
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.GenerateResource.cache
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.csproj.CoreCompileInputs.cache
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.dll
+C:\Users\zhdru\Downloads\SmartStoreNET-4.1.1\SmartStoreNET-4.1.1\src\Plugins\SmartStore.Shipping\obj\Debug\SmartStore.Shipping.pdb
